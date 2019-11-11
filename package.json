@@ -1,0 +1,23 @@
+{
+  "name": "se2019-node-express",
+  "version": "1.0.0",
+  "description": "node tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANDRper/se2019-node-express.git"
+  },
+  "author": "Andrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANDRper/se2019-node-express/issues"
+  },
+  "homepage": "https://github.com/ANDRper/se2019-node-express#readme",
+  "dependencies": {
+    "json": "^9.0.6",
+    "node-fetch": "^2.6.0"
+  }
+}
